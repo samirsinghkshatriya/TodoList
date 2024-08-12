@@ -7,7 +7,7 @@
 # To Do List
 
 
-#### This web page is hosted [here!](https://lordwill1.github.io/todo-list/)
+#### This web page is hosted [here!](https://samirsinghkshatriya.github.io/TodoList/)
 
 
 ### *Features*:
